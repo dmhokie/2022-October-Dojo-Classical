@@ -52,14 +52,14 @@
 [Round "1"]
 [White "BrandonVila3"]
 [Black "emandems"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+ West"]
 [WhiteId "brandonvila#3033"]
 [WhiteElo "1600"]
 [BlackElo "1806"]
 
 {[%SevillaID "5559"]}
-*
+1/2-1/2
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -67,7 +67,7 @@
 [Round "1"]
 [White "bryce4fun"]
 [Black "joel cato"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ West"]
 [WhiteId "Bryce12342#1212"]
 [BlackId "joel_cato [Life Wins]#7861"]
@@ -75,7 +75,7 @@
 [BlackElo "1752"]
 
 {[%SevillaID "5544"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -161,13 +161,13 @@
 [Round "1"]
 [White "LCalvary"]
 [Black "SparkleGarden"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ West"]
 [WhiteElo "1984"]
 [BlackElo "1702"]
 
 {[%SevillaID "5548"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -190,14 +190,14 @@
 [Round "1"]
 [White "mdknight0"]
 [Black "backrankbrawler"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ West"]
 [WhiteId "mdknight0#9201"]
 [WhiteElo "1645"]
 [BlackElo "1866"]
 
 {[%SevillaID "5553"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -221,7 +221,7 @@
 [Round "1"]
 [White "natalie chess17"]
 [Black "bollywood71"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ West"]
 [WhiteId "natalie_u#6736"]
 [BlackId "ljhartman#8038"]
@@ -229,7 +229,7 @@
 [BlackElo "1606"]
 
 {[%SevillaID "5558"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]

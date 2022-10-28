@@ -67,14 +67,14 @@
 [Round "1"]
 [White "dondolo critico"]
 [Black "toonber"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 East"]
 [BlackId "toonber#2187"]
 [WhiteElo "1555"]
 [BlackElo "1350"]
 
 {[%SevillaID "5533"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -114,14 +114,14 @@
 [Round "1"]
 [White "LaNeraTorre"]
 [Black "Longmangy"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 East"]
 [WhiteId "LaNeraTorre#9647"]
 [WhiteElo "1274"]
 [BlackElo "1500"]
 
 {[%SevillaID "5536"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -176,7 +176,7 @@
 [Round "1"]
 [White "Sacul2193"]
 [Black "nokoosh"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 East"]
 [WhiteId "WizardMelon #0791"]
 [BlackId "nokoosh"]
@@ -184,7 +184,7 @@
 [BlackElo "1251"]
 
 {[%SevillaID "5537"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -208,7 +208,7 @@
 [Round "1"]
 [White "squarezou"]
 [Black "dotkoan"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1200-1600 East"]
 [WhiteId "Leavzou#6109"]
 [BlackId "Koan#5959"]
@@ -216,6 +216,6 @@
 [BlackElo "1308"]
 
 {[%SevillaID "5535"]}
-*
+1/2-1/2
 
 

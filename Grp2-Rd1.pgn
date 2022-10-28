@@ -84,7 +84,7 @@
 [Round "1"]
 [White "myhomeismyrook"]
 [Black "Ishmael75"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200 East"]
 [WhiteId "MyHomeIsMyRook#5752"]
 [BlackId "Ishmael75 (CL+10)#6754"]
@@ -92,7 +92,7 @@
 [BlackElo "874"]
 
 {[%SevillaID "5491"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -130,7 +130,7 @@
 [Round "1"]
 [White "YogiBear07"]
 [Black "KerrChess"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200 East"]
 [WhiteId "J R#6732"]
 [BlackId "Kerr#9512"]
@@ -138,6 +138,6 @@
 [BlackElo "993"]
 
 {[%SevillaID "5496"]}
-*
+1-0
 
 

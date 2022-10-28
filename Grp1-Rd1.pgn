@@ -4,7 +4,7 @@
 [Round "1"]
 [White "danimal t"]
 [Black "TXmate39"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200-West"]
 [WhiteId "danimal_t (L,C,-5)#7205"]
 [BlackId "TXmate39 (0710)"]
@@ -12,7 +12,7 @@
 [BlackElo "1179"]
 
 {[%SevillaID "5473"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -20,14 +20,14 @@
 [Round "1"]
 [White "ishroudd"]
 [Black "hailbo"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200-West"]
 [BlackId "hailbo#6804"]
 [WhiteElo "1175"]
 [BlackElo "997"]
 
 {[%SevillaID "5474"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -35,7 +35,7 @@
 [Round "1"]
 [White "josephruhf"]
 [Black "Ramses221"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200-West"]
 [WhiteId "diagonalia#9040"]
 [BlackId "Ramses21"]
@@ -43,7 +43,7 @@
 [BlackElo "1000"]
 
 {[%SevillaID "5487"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -161,7 +161,7 @@
 [Round "1"]
 [White "RyanARaymond"]
 [Black "Muddlah"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200-West"]
 [WhiteId "l3mmy | qfgxa.wam#2080"]
 [BlackId "Muddlah #1053"]
@@ -169,7 +169,7 @@
 [BlackElo "1013"]
 
 {[%SevillaID "5485"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -209,7 +209,7 @@
 [Round "1"]
 [White "thalhuber"]
 [Black "Hola2World"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200-West"]
 [WhiteId "#Thalhuber"]
 [BlackId "Hola2World #7247"]
@@ -217,7 +217,7 @@
 [BlackElo "1023"]
 
 {[%SevillaID "5483"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]

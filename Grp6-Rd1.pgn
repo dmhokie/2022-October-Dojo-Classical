@@ -2,24 +2,9 @@
 [Site "chess.com"]
 [Date "2022.10.24"]
 [Round "1"]
-[White "ANANDI13"]
-[Black "scradam"]
-[Result "*"]
-[Section "1600+ East"]
-[BlackId "DrWhiskers"]
-[WhiteElo "1733"]
-[BlackElo "2100"]
-
-{[%SevillaID "5563"]}
-*
-
-[Event "2022 October Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.10.24"]
-[Round "1"]
 [White "ankit goel"]
 [Black "mrbnenoni"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ East"]
 [WhiteId "CrazyMerlyn#3670"]
 [BlackId "lucar#2053"]
@@ -27,7 +12,7 @@
 [BlackElo "1740"]
 
 {[%SevillaID "5562"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -115,7 +100,7 @@
 [Round "1"]
 [White "Keresch1"]
 [Black "Clues39"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ East"]
 [WhiteId "Keresch"]
 [BlackId "Clues39 #1620"]
@@ -123,7 +108,7 @@
 [BlackElo "1662"]
 
 {[%SevillaID "5568"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -131,7 +116,7 @@
 [Round "1"]
 [White "KrasivyyeShakhmaty"]
 [Black "loanedpawn"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+ East"]
 [WhiteId "KrasivyyeShakhmaty#2905"]
 [BlackId "Loanedpawn#9574"]
@@ -139,7 +124,7 @@
 [BlackElo "2012"]
 
 {[%SevillaID "5565"]}
-*
+1/2-1/2
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -147,7 +132,7 @@
 [Round "1"]
 [White "Leverq"]
 [Black "Pre-Successful"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ East"]
 [WhiteId "Leverq#4022"]
 [BlackId "MaximumDerek#9119"]
@@ -155,7 +140,7 @@
 [BlackElo "1856"]
 
 {[%SevillaID "5573"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -208,7 +193,7 @@
 [Round "1"]
 [White "ProjectAlekhine"]
 [Black "LeoVentu23"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ East"]
 [WhiteId "hahahaha#4471"]
 [BlackId "ventu #5599"]
@@ -216,7 +201,7 @@
 [BlackElo "1858"]
 
 {[%SevillaID "5571"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -224,7 +209,7 @@
 [Round "1"]
 [White "rampage king"]
 [Black "gribble02"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ East"]
 [WhiteId "Vanquisher#7967"]
 [BlackId "gribble#7769"]
@@ -232,7 +217,7 @@
 [BlackElo "1629"]
 
 {[%SevillaID "5572"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -271,7 +256,7 @@
 [Round "1"]
 [White "UbikDojo"]
 [Black "Hellcat3"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ East"]
 [WhiteId "ubik#2526"]
 [BlackId "HellCat#2211"]
@@ -279,6 +264,6 @@
 [BlackElo "1635"]
 
 {[%SevillaID "5570"]}
-*
+0-1
 
 
