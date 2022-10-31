@@ -4,7 +4,7 @@
 [Round "1"]
 [White "abhinav92chess"]
 [Black "passichess79"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200 East"]
 [WhiteId "abhinavk#3238"]
 [BlackId "passi_1479#0562"]
@@ -12,7 +12,7 @@
 [BlackElo "920"]
 
 {[%SevillaID "5489"]}
-*
+0-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -20,7 +20,7 @@
 [Round "1"]
 [White "Clarkp56"]
 [Black "Mevor"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200 East"]
 [WhiteId "Clarkp56 (#9024)"]
 [BlackId "khamiro#6409"]
@@ -28,7 +28,7 @@
 [BlackElo "1100"]
 
 {[%SevillaID "5492"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -36,7 +36,7 @@
 [Round "1"]
 [White "gurren simon"]
 [Black "WillM1966"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200 East"]
 [WhiteId "Appealit#3331 (Server Username: Gurren_Simon)"]
 [BlackId "WillM1966#6004"]
@@ -44,7 +44,7 @@
 [BlackElo "1150"]
 
 {[%SevillaID "5490"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -52,7 +52,7 @@
 [Round "1"]
 [White "justapatzer94"]
 [Black "Quincti1ius"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200 East"]
 [WhiteId "dropshot94#9858"]
 [BlackId "Quincti1ius#6217"]
@@ -60,7 +60,7 @@
 [BlackElo "1187"]
 
 {[%SevillaID "5488"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -68,7 +68,7 @@
 [Round "1"]
 [White "Marziotta"]
 [Black "konohagirl"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200 East"]
 [WhiteId "marziotta#1361"]
 [BlackId "dzasta #7886"]
@@ -76,7 +76,7 @@
 [BlackElo "806"]
 
 {[%SevillaID "5493"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -100,14 +100,14 @@
 [Round "1"]
 [White "QSophie"]
 [Black "PrincessPugh"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200 East"]
 [WhiteId "SophieB#9183"]
 [WhiteElo "696"]
 [BlackElo "1057"]
 
 {[%SevillaID "5494"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -115,14 +115,14 @@
 [Round "1"]
 [White "TanaquilM"]
 [Black "DCGrindr"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200 East"]
 [BlackId "DCGrindr#3482"]
 [WhiteElo "1000"]
 [BlackElo "692"]
 
 {[%SevillaID "5495"]}
-*
+0-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
