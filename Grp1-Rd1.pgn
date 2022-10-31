@@ -177,7 +177,7 @@
 [Round "1"]
 [White "space foobar"]
 [Black "btramel"]
-[Result "0-0"]
+[Result "1-0"]
 [Section "u1200-West"]
 [WhiteId "space_foobar#5723"]
 [BlackId "btramel#9543"]
@@ -185,7 +185,7 @@
 [BlackElo "1074"]
 
 {[%SevillaID "5481"]}
-0-0
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
