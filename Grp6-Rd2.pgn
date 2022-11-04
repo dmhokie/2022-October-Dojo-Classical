@@ -84,7 +84,7 @@
 [Round "2"]
 [White "gribble02"]
 [Black "Rhysszz"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+ East"]
 [WhiteId "gribble#7769"]
 [BlackId "Rhysszz#2810"]
@@ -92,7 +92,7 @@
 [BlackElo "1750"]
 
 {[%SevillaID "5670"]}
-*
+1/2-1/2
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -116,7 +116,7 @@
 [Round "2"]
 [White "Hellcat3"]
 [Black "Keresch1"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ East"]
 [WhiteId "HellCat#2211"]
 [BlackId "Keresch"]
@@ -124,7 +124,7 @@
 [BlackElo "1896"]
 
 {[%SevillaID "5659"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -162,7 +162,7 @@
 [Round "2"]
 [White "LeoVentu23"]
 [Black "bwise23"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ East"]
 [WhiteId "ventu #5599"]
 [BlackId "JackSparrow#2553"]
@@ -170,7 +170,7 @@
 [BlackElo "1676"]
 
 {[%SevillaID "5666"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -194,14 +194,14 @@
 [Round "2"]
 [White "mrbnenoni"]
 [Black "WhiteDrake"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ East"]
 [WhiteId "lucar#2053"]
 [WhiteElo "1740"]
 [BlackElo "1614"]
 
 {[%SevillaID "5671"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -209,7 +209,7 @@
 [Round "2"]
 [White "Pre-Successful"]
 [Black "Chesspirate channel"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ East"]
 [WhiteId "MaximumDerek#9119"]
 [BlackId "Chesspirate_channel"]
@@ -217,7 +217,7 @@
 [BlackElo "2307"]
 
 {[%SevillaID "5654"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]

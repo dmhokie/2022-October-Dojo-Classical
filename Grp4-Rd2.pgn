@@ -67,7 +67,7 @@
 [Round "2"]
 [White "eqinoxz"]
 [Black "Ricker"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 East"]
 [WhiteId "ZouglouDance#2264"]
 [BlackId "ricker#5570"]
@@ -75,7 +75,7 @@
 [BlackElo "1208"]
 
 {[%SevillaID "5623"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -130,13 +130,13 @@
 [Round "2"]
 [White "Longmangy"]
 [Black "Anishs17"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 East"]
 [WhiteElo "1500"]
 [BlackElo "1309"]
 
 {[%SevillaID "5621"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -144,7 +144,7 @@
 [Round "2"]
 [White "MancombSeepgood"]
 [Black "oli sereno"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 East"]
 [WhiteId "MancombSeepgood#3873"]
 [BlackId "olisereno#9370"]
@@ -152,7 +152,7 @@
 [BlackElo "1249"]
 
 {[%SevillaID "5631"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -176,14 +176,14 @@
 [Round "2"]
 [White "nokoosh"]
 [Black "Fougmarc"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 East"]
 [WhiteId "nokoosh"]
 [WhiteElo "1251"]
 [BlackElo "1472"]
 
 {[%SevillaID "5632"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -191,7 +191,7 @@
 [Round "2"]
 [White "peter s68"]
 [Black "Sacul2193"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1200-1600 East"]
 [WhiteId "Peter_s#1242"]
 [BlackId "WizardMelon #0791"]
@@ -199,7 +199,7 @@
 [BlackElo "1495"]
 
 {[%SevillaID "5622"]}
-*
+1/2-1/2
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]

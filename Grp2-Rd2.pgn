@@ -20,7 +20,7 @@
 [Round "2"]
 [White "Ishmael75"]
 [Black "Marziotta"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200 East"]
 [WhiteId "Ishmael75 (CL+10)#6754"]
 [BlackId "marziotta#1361"]
@@ -28,7 +28,7 @@
 [BlackElo "1083"]
 
 {[%SevillaID "5600"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -52,7 +52,7 @@
 [Round "2"]
 [White "konohagirl"]
 [Black "Ballosballo"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "u1200 East"]
 [WhiteId "dzasta #7886"]
 [BlackId "ballo #9390"]
@@ -60,7 +60,7 @@
 [BlackElo "499"]
 
 {[%SevillaID "5597"]}
-*
+1/2-1/2
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -84,14 +84,14 @@
 [Round "2"]
 [White "PrincessPugh"]
 [Black "myhomeismyrook"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200 East"]
 [BlackId "MyHomeIsMyRook#5752"]
 [WhiteElo "1057"]
 [BlackElo "1123"]
 
 {[%SevillaID "5595"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -99,7 +99,7 @@
 [Round "2"]
 [White "Quincti1ius"]
 [Black "passichess79"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200 East"]
 [WhiteId "Quincti1ius#6217"]
 [BlackId "passi_1479#0562"]
@@ -107,7 +107,7 @@
 [BlackElo "920"]
 
 {[%SevillaID "5598"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]

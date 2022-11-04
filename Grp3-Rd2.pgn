@@ -4,7 +4,7 @@
 [Round "2"]
 [White "Cmalbert1"]
 [Black "GoDlyZor"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 West"]
 [WhiteId "cmalbert#3720(L,C=Cmalbert-5)"]
 [BlackId "Zor#7736"]
@@ -12,7 +12,7 @@
 [BlackElo "1228"]
 
 {[%SevillaID "5613"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -51,7 +51,7 @@
 [Round "2"]
 [White "crooney314"]
 [Black "wbjb090"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 West"]
 [WhiteId "charlie314#7930"]
 [BlackId "wbjb#3964"]
@@ -59,7 +59,7 @@
 [BlackElo "1235"]
 
 {[%SevillaID "5618"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -67,7 +67,7 @@
 [Round "2"]
 [White "domvaz97"]
 [Black "Lemongamerchess"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 West"]
 [WhiteId "domvaz97 (C)#0691"]
 [BlackId "None"]
@@ -75,7 +75,7 @@
 [BlackElo "1305"]
 
 {[%SevillaID "5619"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -130,7 +130,7 @@
 [Round "2"]
 [White "lmplay"]
 [Black "Goodhumor"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 West"]
 [WhiteId "lmplay#"]
 [BlackId "Ice Cream #7742"]
@@ -138,7 +138,7 @@
 [BlackElo "1267"]
 
 {[%SevillaID "5609"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -226,7 +226,7 @@
 [Round "2"]
 [White "tedgecco"]
 [Black "milkreator"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 West"]
 [WhiteId "tedgecco#5468"]
 [BlackId "milkreator#1879"]
@@ -234,7 +234,7 @@
 [BlackElo "1509"]
 
 {[%SevillaID "5606"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]

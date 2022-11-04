@@ -4,7 +4,7 @@
 [Round "2"]
 [White "BelgianDood"]
 [Black "btramel"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200-West"]
 [WhiteId "BelgianDood#5171"]
 [BlackId "btramel#9543"]
@@ -12,7 +12,7 @@
 [BlackElo "1074"]
 
 {[%SevillaID "5588"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -35,7 +35,7 @@
 [Round "2"]
 [White "CorrosionTech"]
 [Black "am percival"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200-West"]
 [WhiteId "CorrosionTech#2254"]
 [BlackId "am_percival#2572"]
@@ -43,7 +43,7 @@
 [BlackElo "1000"]
 
 {[%SevillaID "5584"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -98,14 +98,14 @@
 [Round "2"]
 [White "Hola2World"]
 [Black "ishroudd"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200-West"]
 [WhiteId "Hola2World #7247"]
 [WhiteElo "1023"]
 [BlackElo "1175"]
 
 {[%SevillaID "5578"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -177,7 +177,7 @@
 [Round "2"]
 [White "Na4olean"]
 [Black "nhendo66"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200-West"]
 [WhiteId "Na4olean #6091"]
 [BlackId "nhendo66#4418"]
@@ -185,7 +185,7 @@
 [BlackElo "1003"]
 
 {[%SevillaID "5590"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
