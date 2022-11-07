@@ -4,7 +4,7 @@
 [Round "2"]
 [White "abhinav92chess"]
 [Black "gurren simon"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200 East"]
 [WhiteId "abhinavk#3238"]
 [BlackId "Appealit#3331 (Server Username: Gurren_Simon)"]
@@ -12,7 +12,7 @@
 [BlackElo "885"]
 
 {[%SevillaID "5599"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -36,7 +36,7 @@
 [Round "2"]
 [White "KerrChess"]
 [Black "DCGrindr"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200 East"]
 [WhiteId "Kerr#9512"]
 [BlackId "DCGrindr#3482"]
@@ -44,7 +44,7 @@
 [BlackElo "692"]
 
 {[%SevillaID "5602"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -68,7 +68,7 @@
 [Round "2"]
 [White "Mevor"]
 [Black "YogiBear07"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200 East"]
 [WhiteId "khamiro#6409"]
 [BlackId "J R#6732"]
@@ -76,7 +76,7 @@
 [BlackElo "609"]
 
 {[%SevillaID "5596"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -115,14 +115,14 @@
 [Round "2"]
 [White "TanaquilM"]
 [Black "QSophie"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "u1200 East"]
 [BlackId "SophieB#9183"]
 [WhiteElo "1000"]
 [BlackElo "696"]
 
 {[%SevillaID "5601"]}
-*
+1/2-1/2
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -130,7 +130,7 @@
 [Round "2"]
 [White "WillM1966"]
 [Black "justapatzer94"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200 East"]
 [WhiteId "WillM1966#6004"]
 [BlackId "dropshot94#9858"]
@@ -138,6 +138,6 @@
 [BlackElo "957"]
 
 {[%SevillaID "5594"]}
-*
+1-0
 
 
