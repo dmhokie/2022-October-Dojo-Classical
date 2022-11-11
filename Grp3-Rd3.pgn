@@ -2,20 +2,6 @@
 [Site "chess.com"]
 [Date "2022.11.07"]
 [Round "3"]
-[White "ChamyChess"]
-[Black "SamF2991"]
-[Result "*"]
-[Section "1200-1600 West"]
-[WhiteElo "1448"]
-[BlackElo "1270"]
-
-{[%SevillaID "5846"]}
-*
-
-[Event "2022 October Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.11.07"]
-[Round "3"]
 [White "Cmalbert1"]
 [Black "Heathcliff chess"]
 [Result "*"]
@@ -98,7 +84,7 @@
 [Round "3"]
 [White "GoDlyZor"]
 [Black "turock64"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 West"]
 [WhiteId "Zor#7736"]
 [BlackId "morgman64#7700"]
@@ -106,7 +92,7 @@
 [BlackElo "1437"]
 
 {[%SevillaID "5842"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -130,14 +116,14 @@
 [Round "3"]
 [White "gpetris"]
 [Black "turbulentmao"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 West"]
 [WhiteId "gpetris#1791"]
 [WhiteElo "1288"]
 [BlackElo "1420"]
 
 {[%SevillaID "5847"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -145,7 +131,7 @@
 [Round "3"]
 [White "GreatWNorth"]
 [Black "lmplay"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 West"]
 [WhiteId "FrozenTundra#6607"]
 [BlackId "lmplay#"]
@@ -153,7 +139,7 @@
 [BlackElo "1447"]
 
 {[%SevillaID "5841"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -208,7 +194,7 @@
 [Round "3"]
 [White "milkreator"]
 [Black "morphyfanLL"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 West"]
 [WhiteId "milkreator#1879"]
 [BlackId "morphyfanLL#8385"]
@@ -216,7 +202,7 @@
 [BlackElo "1557"]
 
 {[%SevillaID "5840"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]

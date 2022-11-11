@@ -52,14 +52,14 @@
 [Round "3"]
 [White "eihc93"]
 [Black "joel cato"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ West"]
 [BlackId "joel_cato [Life Wins]#7861"]
 [WhiteElo "1630"]
 [BlackElo "1752"]
 
 {[%SevillaID "5785"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -67,14 +67,14 @@
 [Round "3"]
 [White "Frank P Button"]
 [Black "Constantine73"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ West"]
 [BlackId "Constantine #1211"]
 [WhiteElo "1666"]
 [BlackElo "1833"]
 
 {[%SevillaID "5781"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -112,14 +112,14 @@
 [Round "3"]
 [White "iamjameel"]
 [Black "mdknight0"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+ West"]
 [BlackId "mdknight0#9201"]
 [WhiteElo "1877"]
 [BlackElo "1645"]
 
 {[%SevillaID "5780"]}
-*
+1/2-1/2
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -173,7 +173,7 @@
 [Round "3"]
 [White "KhaledAmir21"]
 [Black "Ailuropoda"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+ West"]
 [WhiteId "KhaledAmir#8503"]
 [BlackId "loei#0166"]
@@ -181,7 +181,7 @@
 [BlackElo "1765"]
 
 {[%SevillaID "5784"]}
-*
+1/2-1/2
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -189,7 +189,7 @@
 [Round "3"]
 [White "markmarkedymarkmark"]
 [Black "OnlyKIDing"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ West"]
 [WhiteId "markmarkedymarkmark#6046"]
 [BlackId "iacono"]
@@ -197,7 +197,7 @@
 [BlackElo "1918"]
 
 {[%SevillaID "5786"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -298,13 +298,13 @@
 [Round "3"]
 [White "toddbryant"]
 [Black "mapview"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ West"]
 [WhiteId "strongchess#0164"]
 [WhiteElo "2302"]
 [BlackElo "1857"]
 
 {[%SevillaID "5772"]}
-*
+0-1
 
 
