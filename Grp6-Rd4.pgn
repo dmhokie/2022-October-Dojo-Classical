@@ -19,7 +19,7 @@
 [Round "4"]
 [White "dekkard79"]
 [Black "TunaPasta79"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ East"]
 [WhiteId "dekkard#8691"]
 [BlackId "Fant#3381"]
@@ -27,7 +27,7 @@
 [BlackElo "1900"]
 
 {[%SevillaID "5972"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -35,7 +35,7 @@
 [Round "4"]
 [White "DominanterNudelesser"]
 [Black "Keresch1"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ East"]
 [WhiteId "coldgreen #2743"]
 [BlackId "Keresch"]
@@ -43,7 +43,7 @@
 [BlackElo "1896"]
 
 {[%SevillaID "5969"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -66,7 +66,7 @@
 [Round "4"]
 [White "gribble02"]
 [Black "fhunfi"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ East"]
 [WhiteId "gribble#7769"]
 [BlackId "fhunfi#9571"]
@@ -74,7 +74,7 @@
 [BlackElo "1812"]
 
 {[%SevillaID "5979"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -82,7 +82,7 @@
 [Round "4"]
 [White "headcanon"]
 [Black "bwise23"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+ East"]
 [WhiteId "headcanon#2403"]
 [BlackId "JackSparrow#2553"]
@@ -90,7 +90,7 @@
 [BlackElo "1676"]
 
 {[%SevillaID "5977"]}
-*
+1/2-1/2
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -130,7 +130,7 @@
 [Round "4"]
 [White "mrbnenoni"]
 [Black "Loboto"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ East"]
 [WhiteId "lucar#2053"]
 [BlackId "Loboto#2318"]
@@ -138,7 +138,7 @@
 [BlackElo "2000"]
 
 {[%SevillaID "5968"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -178,7 +178,7 @@
 [Round "4"]
 [White "Pre-Successful"]
 [Black "ankit goel"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ East"]
 [WhiteId "MaximumDerek#9119"]
 [BlackId "CrazyMerlyn#3670"]
@@ -186,7 +186,7 @@
 [BlackElo "2186"]
 
 {[%SevillaID "5966"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -194,7 +194,7 @@
 [Round "4"]
 [White "ProjectAlekhine"]
 [Black "Lolada"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+ East"]
 [WhiteId "hahahaha#4471"]
 [BlackId "Lolada"]
@@ -202,7 +202,7 @@
 [BlackElo "1853"]
 
 {[%SevillaID "5970"]}
-*
+1/2-1/2
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -210,7 +210,7 @@
 [Round "4"]
 [White "stjoes"]
 [Black "loanedpawn"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ East"]
 [WhiteId "Professor Jaeger#1479"]
 [BlackId "Loanedpawn#9574"]
@@ -218,7 +218,7 @@
 [BlackElo "2012"]
 
 {[%SevillaID "5978"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -226,7 +226,7 @@
 [Round "4"]
 [White "Svente25"]
 [Black "Travkusken"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ East"]
 [WhiteId "Svente#7138"]
 [BlackId "Timwestlund#4831"]
@@ -234,7 +234,7 @@
 [BlackElo "1878"]
 
 {[%SevillaID "5965"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -257,7 +257,7 @@
 [Round "4"]
 [White "yaR 33"]
 [Black "DP2004123"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ East"]
 [WhiteId "yaR_33#0033"]
 [BlackId "knowledgegainer#4209"]
@@ -265,6 +265,6 @@
 [BlackElo "1613"]
 
 {[%SevillaID "5974"]}
-*
+0-1
 
 

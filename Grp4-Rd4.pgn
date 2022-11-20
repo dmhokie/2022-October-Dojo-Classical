@@ -82,7 +82,7 @@
 [Round "4"]
 [White "Jjames1"]
 [Black "peter s68"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1200-1600 East"]
 [WhiteId "Jjames1 #0262"]
 [BlackId "Peter_s#1242"]
@@ -90,7 +90,7 @@
 [BlackElo "1236"]
 
 {[%SevillaID "5937"]}
-*
+1/2-1/2
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -128,7 +128,7 @@
 [Round "4"]
 [White "MezIpa"]
 [Black "Ciraid"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 East"]
 [WhiteId "Genipa#0322"]
 [BlackId "Ciraid"]
@@ -136,7 +136,7 @@
 [BlackElo "1562"]
 
 {[%SevillaID "5942"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -144,7 +144,7 @@
 [Round "4"]
 [White "MrLugas"]
 [Black "eqinoxz"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 East"]
 [WhiteId "TooLazyToBecomeGM#3871"]
 [BlackId "ZouglouDance#2264"]
@@ -152,7 +152,7 @@
 [BlackElo "1400"]
 
 {[%SevillaID "5934"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -160,7 +160,7 @@
 [Round "4"]
 [White "nokoosh"]
 [Black "LaNeraTorre"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 East"]
 [WhiteId "nokoosh"]
 [BlackId "LaNeraTorre#9647"]
@@ -168,7 +168,7 @@
 [BlackElo "1274"]
 
 {[%SevillaID "5940"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -176,7 +176,7 @@
 [Round "4"]
 [White "OriginalKobra"]
 [Black "squarezou"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 East"]
 [WhiteId "M4rt1n#3062"]
 [BlackId "Leavzou#6109"]
@@ -184,7 +184,7 @@
 [BlackElo "1522"]
 
 {[%SevillaID "5936"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -192,7 +192,7 @@
 [Round "4"]
 [White "Ricker"]
 [Black "MancombSeepgood"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 East"]
 [WhiteId "ricker#5570"]
 [BlackId "MancombSeepgood#3873"]
@@ -200,7 +200,7 @@
 [BlackElo "1550"]
 
 {[%SevillaID "5933"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -208,7 +208,7 @@
 [Round "4"]
 [White "Sacul2193"]
 [Black "figgeous"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 East"]
 [WhiteId "WizardMelon #0791"]
 [BlackId "figgeous1182"]
@@ -216,6 +216,6 @@
 [BlackElo "1374"]
 
 {[%SevillaID "5938"]}
-*
+1-0
 
 

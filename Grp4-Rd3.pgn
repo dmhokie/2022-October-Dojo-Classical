@@ -36,7 +36,7 @@
 [Round "3"]
 [White "Egenverdi"]
 [Black "SzymblokSB"]
-[Result "0-0"]
+[Result "0-1"]
 [Section "1200-1600 East"]
 [WhiteId "STEN#9904"]
 [BlackId "#{SacredBand} Szymblok #7551"]
@@ -44,7 +44,7 @@
 [BlackElo "1573"]
 
 {[%SevillaID "5744"]}
-0-0
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -175,7 +175,7 @@
 [Round "3"]
 [White "Ricker"]
 [Black "peter s68"]
-[Result "0-0"]
+[Result "0-1"]
 [Section "1200-1600 East"]
 [WhiteId "ricker#5570"]
 [BlackId "Peter_s#1242"]
@@ -183,7 +183,7 @@
 [BlackElo "1236"]
 
 {[%SevillaID "5739"]}
-0-0
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -191,7 +191,7 @@
 [Round "3"]
 [White "Sacul2193"]
 [Black "figgeous"]
-[Result "0-0"]
+[Result "1-0"]
 [Section "1200-1600 East"]
 [WhiteId "WizardMelon #0791"]
 [BlackId "figgeous1182"]
@@ -199,7 +199,7 @@
 [BlackElo "1374"]
 
 {[%SevillaID "5740"]}
-0-0
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
