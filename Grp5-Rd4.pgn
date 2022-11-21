@@ -4,14 +4,14 @@
 [Round "4"]
 [White "Anthammer"]
 [Black "emandems"]
-[Result "*"]
+[Result "0-0"]
 [Section "1600+ West"]
 [WhiteId "Anthammer"]
 [WhiteElo "1640"]
 [BlackElo "1806"]
 
 {[%SevillaID "5964"]}
-*
+0-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -19,14 +19,14 @@
 [Round "4"]
 [White "backrankbrawler"]
 [Black "imcimc1313"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+ West"]
 [BlackId "isaaccrane#1862"]
 [WhiteElo "1866"]
 [BlackElo "1664"]
 
 {[%SevillaID "5956"]}
-*
+1/2-1/2
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -81,14 +81,14 @@
 [Round "4"]
 [White "ilovefarting"]
 [Black "SparkleGarden"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ West"]
 [WhiteId "milesbright#1964"]
 [WhiteElo "2005"]
 [BlackElo "1702"]
 
 {[%SevillaID "5948"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -96,14 +96,14 @@
 [Round "4"]
 [White "ImPieman"]
 [Black "Frank P Button"]
-[Result "*"]
+[Result "0-0"]
 [Section "1600+ West"]
 [WhiteId "Pieman#2767"]
 [WhiteElo "1846"]
 [BlackElo "1666"]
 
 {[%SevillaID "5961"]}
-*
+0-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -156,14 +156,14 @@
 [Round "4"]
 [White "mapview"]
 [Black "bryce4fun"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ West"]
 [BlackId "Bryce12342#1212"]
 [WhiteElo "1857"]
 [BlackElo "2118"]
 
 {[%SevillaID "5947"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -218,14 +218,14 @@
 [Round "4"]
 [White "nfv1972"]
 [Black "JordanFury"]
-[Result "*"]
+[Result "0-0"]
 [Section "1600+ West"]
 [BlackId "JordanFury#4123"]
 [WhiteElo "1683"]
 [BlackElo "1880"]
 
 {[%SevillaID "5960"]}
-*
+0-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -265,7 +265,7 @@
 [Round "4"]
 [White "toddbryant"]
 [Black "Drtyhrrynlsnplsbry"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ West"]
 [WhiteId "strongchess#0164"]
 [BlackId "DirtyHarryNelsonPillsbury#3603"]
@@ -273,6 +273,6 @@
 [BlackElo "1822"]
 
 {[%SevillaID "5949"]}
-*
+1-0
 
 

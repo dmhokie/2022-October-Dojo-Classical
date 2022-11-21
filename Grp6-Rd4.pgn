@@ -4,14 +4,14 @@
 [Round "4"]
 [White "Clues39"]
 [Black "Kvng mezi"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ East"]
 [WhiteId "Clues39 #1620"]
 [WhiteElo "1662"]
 [BlackElo "1733"]
 
 {[%SevillaID "5981"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -51,14 +51,14 @@
 [Round "4"]
 [White "G_Grkinic"]
 [Black "mharris22"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ East"]
 [WhiteId "Goran Grkinic"]
 [WhiteElo "2057"]
 [BlackElo "1601"]
 
 {[%SevillaID "5971"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -98,7 +98,7 @@
 [Round "4"]
 [White "LeoVentu23"]
 [Black "Rhysszz"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+ East"]
 [WhiteId "ventu #5599"]
 [BlackId "Rhysszz#2810"]
@@ -106,7 +106,7 @@
 [BlackElo "1750"]
 
 {[%SevillaID "5973"]}
-*
+1/2-1/2
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -114,7 +114,7 @@
 [Round "4"]
 [White "Leverq"]
 [Black "dan shields"]
-[Result "*"]
+[Result "0-0"]
 [Section "1600+ East"]
 [WhiteId "Leverq#4022"]
 [BlackId "shields#9606"]
@@ -122,7 +122,7 @@
 [BlackElo "1909"]
 
 {[%SevillaID "5975"]}
-*
+0-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -146,7 +146,7 @@
 [Round "4"]
 [White "Pauli3141"]
 [Black "Chesspirate channel"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ East"]
 [WhiteId "Pauli#4131"]
 [BlackId "Chesspirate_channel"]
@@ -154,7 +154,7 @@
 [BlackElo "2307"]
 
 {[%SevillaID "5967"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -162,7 +162,7 @@
 [Round "4"]
 [White "Prab76"]
 [Black "CarefulOnReenetry"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+ East"]
 [WhiteId "Prab76#5267"]
 [BlackId "Cogpark#6560"]
@@ -170,7 +170,7 @@
 [BlackElo "1641"]
 
 {[%SevillaID "5980"]}
-*
+1/2-1/2
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -242,14 +242,14 @@
 [Round "4"]
 [White "WhiteDrake"]
 [Black "rampage king"]
-[Result "*"]
+[Result "0-0"]
 [Section "1600+ East"]
 [BlackId "Vanquisher#7967"]
 [WhiteElo "1614"]
 [BlackElo "1858"]
 
 {[%SevillaID "5976"]}
-*
+0-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]

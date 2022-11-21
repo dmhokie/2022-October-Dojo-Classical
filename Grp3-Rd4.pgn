@@ -19,7 +19,7 @@
 [Round "4"]
 [White "cnunezre"]
 [Black "kyle b81"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 West"]
 [WhiteId "dinomuri#3099"]
 [BlackId "kyle_b#9289"]
@@ -27,7 +27,7 @@
 [BlackElo "1525"]
 
 {[%SevillaID "5926"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -67,7 +67,7 @@
 [Round "4"]
 [White "GoDlyZor"]
 [Black "lmplay"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 West"]
 [WhiteId "Zor#7736"]
 [BlackId "lmplay#"]
@@ -75,7 +75,7 @@
 [BlackElo "1447"]
 
 {[%SevillaID "5919"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -83,7 +83,7 @@
 [Round "4"]
 [White "GreatWNorth"]
 [Black "ExcruciatinglyAVG"]
-[Result "*"]
+[Result "0-0"]
 [Section "1200-1600 West"]
 [WhiteId "FrozenTundra#6607"]
 [BlackId "ichtyologie#2400"]
@@ -91,7 +91,7 @@
 [BlackElo "1581"]
 
 {[%SevillaID "5920"]}
-*
+0-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
