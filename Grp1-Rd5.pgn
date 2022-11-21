@@ -34,12 +34,11 @@
 [Site "chess.com"]
 [Date "2022.11.21"]
 [Round "5"]
-[White "danimal t"]
+[White "montgomery3721"]
 [Black "dkoufos"]
 [Result "*"]
 [Section "u1200-West"]
-[WhiteId "danimal_t (L,C,-5)#7205"]
-[WhiteElo "998"]
+[WhiteElo "1192"]
 [BlackElo "1133"]
 
 {[%SevillaID "5989"]}
@@ -138,21 +137,6 @@
 [BlackElo "1023"]
 
 {[%SevillaID "5992"]}
-*
-
-[Event "2022 October Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.11.21"]
-[Round "5"]
-[White "montgomery3721"]
-[Black "pgrucza"]
-[Result "*"]
-[Section "u1200-West"]
-[BlackId "portage#5445"]
-[WhiteElo "1192"]
-[BlackElo "934"]
-
-{[%SevillaID "5988"]}
 *
 
 [Event "2022 October Dojo Classical"]
