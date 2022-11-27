@@ -82,7 +82,7 @@
 [Round "5"]
 [White "fermented"]
 [Black "MrLugas"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 East"]
 [WhiteId "greit#1274"]
 [BlackId "TooLazyToBecomeGM#3871"]
@@ -90,7 +90,7 @@
 [BlackElo "1379"]
 
 {[%SevillaID "6030"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -128,7 +128,7 @@
 [Round "5"]
 [White "LaNeraTorre"]
 [Black "MancombSeepgood"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 East"]
 [WhiteId "LaNeraTorre#9647"]
 [BlackId "MancombSeepgood#3873"]
@@ -136,7 +136,7 @@
 [BlackElo "1550"]
 
 {[%SevillaID "6028"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -160,7 +160,7 @@
 [Round "5"]
 [White "Ricker"]
 [Black "Sacul2193"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 East"]
 [WhiteId "ricker#5570"]
 [BlackId "WizardMelon #0791"]
@@ -168,7 +168,7 @@
 [BlackElo "1495"]
 
 {[%SevillaID "6025"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -208,7 +208,7 @@
 [Round "5"]
 [White "toonber"]
 [Black "MezIpa"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 East"]
 [WhiteId "toonber#2187"]
 [BlackId "Genipa#0322"]
@@ -216,6 +216,6 @@
 [BlackElo "1400"]
 
 {[%SevillaID "6033"]}
-*
+0-1
 
 

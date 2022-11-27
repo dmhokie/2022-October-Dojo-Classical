@@ -20,7 +20,7 @@
 [Round "5"]
 [White "domvaz97"]
 [Black "wbjb090"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 West"]
 [WhiteId "domvaz97 (C)#0691"]
 [BlackId "wbjb#3964"]
@@ -28,7 +28,7 @@
 [BlackElo "1235"]
 
 {[%SevillaID "6022"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -68,7 +68,7 @@
 [Round "5"]
 [White "GreatWNorth"]
 [Black "ExcruciatinglyAVG"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 West"]
 [WhiteId "FrozenTundra#6607"]
 [BlackId "ichtyologie#2400"]
@@ -76,7 +76,7 @@
 [BlackElo "1581"]
 
 {[%SevillaID "6017"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -116,14 +116,14 @@
 [Round "5"]
 [White "lmplay"]
 [Black "RockWomble"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 West"]
 [WhiteId "lmplay#"]
 [WhiteElo "1447"]
 [BlackElo "1350"]
 
 {[%SevillaID "6015"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -147,7 +147,7 @@
 [Round "5"]
 [White "milkreator"]
 [Black "Shokudan"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 West"]
 [WhiteId "milkreator#1879"]
 [BlackId "Shokudan#7863"]
@@ -155,7 +155,7 @@
 [BlackElo "1352"]
 
 {[%SevillaID "6011"]}
-*
+0-1
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -163,7 +163,7 @@
 [Round "5"]
 [White "morphyfanLL"]
 [Black "GoDlyZor"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 West"]
 [WhiteId "morphyfanLL#8385"]
 [BlackId "Zor#7736"]
@@ -171,7 +171,7 @@
 [BlackElo "1228"]
 
 {[%SevillaID "6010"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -195,14 +195,14 @@
 [Round "5"]
 [White "SquanchyBirdperson"]
 [Black "ChamyChess"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 West"]
 [WhiteId "SquanchyBirdperson#8586"]
 [WhiteElo "1335"]
 [BlackElo "1448"]
 
 {[%SevillaID "6014"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -226,13 +226,13 @@
 [Round "5"]
 [White "turbulentmao"]
 [Black "Pokervane"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 West"]
 [BlackId "Pokervane#4011"]
 [WhiteElo "1420"]
 [BlackElo "1481"]
 
 {[%SevillaID "6012"]}
-*
+0-1
 
 
