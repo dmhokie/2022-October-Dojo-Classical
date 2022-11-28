@@ -4,14 +4,14 @@
 [Round "5"]
 [White "abhinav92chess"]
 [Black "slixperi"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200 East"]
 [WhiteId "abhinavk#3238"]
 [WhiteElo "1167"]
 [BlackElo "1119"]
 
 {[%SevillaID "6002"]}
-*
+0-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -19,7 +19,7 @@
 [Round "5"]
 [White "DCGrindr"]
 [Black "QSophie"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200 East"]
 [WhiteId "DCGrindr#3482"]
 [BlackId "SophieB#9183"]
@@ -27,7 +27,7 @@
 [BlackElo "696"]
 
 {[%SevillaID "6009"]}
-*
+0-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -111,14 +111,14 @@
 [Round "5"]
 [White "TanaquilM"]
 [Black "Clarkp56"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200 East"]
 [BlackId "Clarkp56 (#9024)"]
 [WhiteElo "1000"]
 [BlackElo "860"]
 
 {[%SevillaID "6006"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -139,16 +139,16 @@
 [Site "chess.com"]
 [Date "2022.11.21"]
 [Round "5"]
-[White "YogiBear07"]
-[Black "Quincti1ius"]
-[Result "*"]
+[White "Quincti1ius"]
+[Black "YogiBear07"]
+[Result "0-1"]
 [Section "u1200 East"]
-[WhiteId "J R#6732"]
-[BlackId "Quincti1ius#6217"]
-[WhiteElo "609"]
-[BlackElo "1187"]
+[WhiteId "Quincti1ius#6217"]
+[BlackId "J R#6732"]
+[WhiteElo "1187"]
+[BlackElo "609"]
 
 {[%SevillaID "6007"]}
-*
+0-1
 
 

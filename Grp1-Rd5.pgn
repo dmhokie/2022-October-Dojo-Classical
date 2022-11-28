@@ -20,7 +20,7 @@
 [Round "5"]
 [White "Apithy86"]
 [Black "CorrosionTech"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200-West"]
 [WhiteId "Apithy#2357"]
 [BlackId "CorrosionTech#2254"]
@@ -28,7 +28,7 @@
 [BlackElo "1164"]
 
 {[%SevillaID "5994"]}
-*
+0-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -52,7 +52,7 @@
 [Round "5"]
 [White "hailbo"]
 [Black "Sinewave13"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200-West"]
 [WhiteId "hailbo#6804"]
 [BlackId "sinewave#1474"]
@@ -60,7 +60,7 @@
 [BlackElo "1163"]
 
 {[%SevillaID "5985"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -100,7 +100,7 @@
 [Round "5"]
 [White "lhowe123"]
 [Black "JJZZHH"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200-West"]
 [WhiteId "liam howe#5402"]
 [BlackId "jendo#9412"]
@@ -108,7 +108,7 @@
 [BlackElo "539"]
 
 {[%SevillaID "5999"]}
-*
+0-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -145,14 +145,14 @@
 [Round "5"]
 [White "Muddlah"]
 [Black "ishroudd"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200-West"]
 [WhiteId "Muddlah #1053"]
 [WhiteElo "1013"]
 [BlackElo "1175"]
 
 {[%SevillaID "5984"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -160,7 +160,7 @@
 [Round "5"]
 [White "MVPok"]
 [Black "space foobar"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200-West"]
 [WhiteId "Aeromag#5028"]
 [BlackId "space_foobar#5723"]
@@ -168,7 +168,7 @@
 [BlackElo "915"]
 
 {[%SevillaID "5991"]}
-*
+1-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -192,7 +192,7 @@
 [Round "5"]
 [White "RyanARaymond"]
 [Black "mongreltiger"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200-West"]
 [WhiteId "l3mmy | qfgxa.wam#2080"]
 [BlackId "mongreltiger#9686"]
@@ -200,7 +200,7 @@
 [BlackElo "1096"]
 
 {[%SevillaID "5996"]}
-*
+0-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -223,7 +223,7 @@
 [Round "5"]
 [White "sully2112"]
 [Black "TXmate39"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200-West"]
 [WhiteId "sully2112 #4628"]
 [BlackId "TXmate39 (0710)"]
@@ -231,7 +231,7 @@
 [BlackElo "1179"]
 
 {[%SevillaID "5995"]}
-*
+0-0
 
 [Event "2022 October Dojo Classical"]
 [Site "chess.com"]
@@ -239,7 +239,7 @@
 [Round "5"]
 [White "wittykittyy"]
 [Black "Na4olean"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "u1200-West"]
 [WhiteId "WittyKitty (C)#1357"]
 [BlackId "Na4olean #6091"]
@@ -247,6 +247,6 @@
 [BlackElo "640"]
 
 {[%SevillaID "5990"]}
-*
+1/2-1/2
 
 
