@@ -109,6 +109,22 @@
 [Site "chess.com"]
 [Date "2022.11.21"]
 [Round "5"]
+[White "Quincti1ius"]
+[Black "YogiBear07"]
+[Result "0-1"]
+[Section "u1200 East"]
+[WhiteId "Quincti1ius#6217"]
+[BlackId "J R#6732"]
+[WhiteElo "1187"]
+[BlackElo "609"]
+
+{[%SevillaID "6007"]}
+0-1
+
+[Event "2022 October Dojo Classical"]
+[Site "chess.com"]
+[Date "2022.11.21"]
+[Round "5"]
 [White "TanaquilM"]
 [Black "Clarkp56"]
 [Result "1-0"]
@@ -134,21 +150,5 @@
 
 {[%SevillaID "6003"]}
 1-0
-
-[Event "2022 October Dojo Classical"]
-[Site "chess.com"]
-[Date "2022.11.21"]
-[Round "5"]
-[White "Quincti1ius"]
-[Black "YogiBear07"]
-[Result "0-1"]
-[Section "u1200 East"]
-[WhiteId "Quincti1ius#6217"]
-[BlackId "J R#6732"]
-[WhiteElo "1187"]
-[BlackElo "609"]
-
-{[%SevillaID "6007"]}
-0-1
 
 
